@@ -22,7 +22,7 @@ module.exports = {
         "react"
     ],
     "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true
+        "source.fixAll.eslint": false
     },
     "editor.codeActionsOnSave": {
         "source.fixAll": true
